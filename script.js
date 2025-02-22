@@ -177,4 +177,4 @@ const startApp = () => {
 
 document.querySelector("header").onclick = () => startApp();
 
-startApp();
+startApp(); //so pro git hub desbugar//
